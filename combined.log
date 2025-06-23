@@ -1,0 +1,30 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-06-23T07:16:56.386Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T07:16:56.448Z"}
+{"body":{},"ip":"::1","level":"info","message":"GET /","params":{},"timestamp":"2025-06-23T07:17:21.643Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-06-23T07:23:05.687Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T07:23:05.712Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-06-23T07:24:10.650Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T07:24:10.668Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-06-23T07:27:57.762Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T07:27:57.803Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-06-23T07:40:48.909Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T07:40:48.961Z"}
+{"body":{},"ip":"::1","level":"info","message":"GET /","params":{},"timestamp":"2025-06-23T07:41:01.712Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"GET /","params":{},"timestamp":"2025-06-23T07:41:06.749Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"GET /api/auth/register","params":{},"timestamp":"2025-06-23T07:43:05.661Z","userAgent":"PostmanRuntime/7.44.0"}
+{"body":{},"ip":"::1","level":"info","message":"GET /api/auth/register","params":{},"timestamp":"2025-06-23T07:43:26.840Z","userAgent":"PostmanRuntime/7.44.0"}
+{"body":{},"ip":"::1","level":"info","message":"GET /api/links/:shortCode/analytics","params":{},"timestamp":"2025-06-23T07:44:24.756Z","userAgent":"PostmanRuntime/7.44.0"}
+{"body":{},"ip":"::1","level":"info","message":"POST /api/auth/register","params":{},"timestamp":"2025-06-23T07:45:24.240Z","userAgent":"PostmanRuntime/7.44.0"}
+{"level":"error","message":"Server error: User validation failed: email: Path `email` is required., password: Path `password` is required.","stack":"ValidationError: User validation failed: email: Path `email` is required., password: Path `password` is required.\n    at Document.invalidate (C:\\Users\\virus\\OneDrive\\Desktop\\Backend Project\\node_modules\\mongoose\\lib\\document.js:3352:32)\n    at C:\\Users\\virus\\OneDrive\\Desktop\\Backend Project\\node_modules\\mongoose\\lib\\document.js:3113:17\n    at C:\\Users\\virus\\OneDrive\\Desktop\\Backend Project\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-06-23T07:45:24.419Z"}
+{"body":{},"ip":"::1","level":"info","message":"POST /api/auth/login","params":{},"timestamp":"2025-06-23T07:46:21.403Z","userAgent":"PostmanRuntime/7.44.0"}
+{"body":{},"ip":"::1","level":"info","message":"POST /api/auth/shortCode","params":{},"timestamp":"2025-06-23T07:46:43.546Z","userAgent":"PostmanRuntime/7.44.0"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-06-23T07:50:09.449Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T07:50:09.486Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-06-23T07:50:57.536Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T07:50:57.552Z"}
+{"body":{},"ip":"::1","level":"info","message":"POST /api/auth/register","params":{},"timestamp":"2025-06-23T07:51:10.314Z","userAgent":"PostmanRuntime/7.44.0"}
+{"level":"error","message":"Server error: User validation failed: email: Path `email` is required., password: Path `password` is required.","stack":"ValidationError: User validation failed: email: Path `email` is required., password: Path `password` is required.\n    at Document.invalidate (C:\\Users\\virus\\OneDrive\\Desktop\\Backend Project\\node_modules\\mongoose\\lib\\document.js:3352:32)\n    at C:\\Users\\virus\\OneDrive\\Desktop\\Backend Project\\node_modules\\mongoose\\lib\\document.js:3113:17\n    at C:\\Users\\virus\\OneDrive\\Desktop\\Backend Project\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-06-23T07:51:10.363Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-06-23T07:56:25.299Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T07:56:25.336Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-06-23T08:09:23.070Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T08:09:23.122Z"}
